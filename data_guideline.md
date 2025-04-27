@@ -1,4 +1,5 @@
-# antidepressants_analysis
+# antidepressants_analysis - data guidelines
+
 Analysis of adverse events of antidepressants based on FAERS
 
 
