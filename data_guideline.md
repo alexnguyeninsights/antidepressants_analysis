@@ -1,4 +1,4 @@
-# antidepressants_final
+# antidepressants_analysis
 Analysis of adverse events of antidepressants based on FAERS
 
 
